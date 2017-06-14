@@ -1,0 +1,10 @@
+
+In line number 17 of your output:
+The output should be:
+1   |275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|
+But your output is: 
+1   |275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|***
+                                                                      ^
+----------------------------------------------------------------------|
+Professor's character ASCII code: hex(d), dec(13)
+un-matched character ASCII code: hex(2a), dec(42)
